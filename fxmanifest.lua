@@ -1,8 +1,7 @@
 fx_version 'cerulean'
-games { 'gta5' }
-lua54 'yes'
-author 'R E D 1'
+game 'gta5'
 
-client_scripts { 
-	'rd_client.lua',
-}
+author 'RDSTORE'
+description 'CUSTOM WEAPON RECOIL, CAMERA SHAKE, AND CRITICAL HIT CONFIG'
+version '1.0.1'
+client_scripts {'config.lua','rd_cl.lua'}
