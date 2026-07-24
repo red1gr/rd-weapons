@@ -1,4 +1,4 @@
-a# RD-WEAPONS FIVEM SCRIPT
+# RD-WEAPONS FIVEM SCRIPT
 
 [![GitHub issues](https://img.shields.io/github/issues/red1gr/rd-weapons?style=for-the-badge&logo=github&logoColor=white)](https://github.com/red1gr/rd-weapons/issues)
 [![GitHub license](https://img.shields.io/github/license/red1gr/rd-weapons?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
