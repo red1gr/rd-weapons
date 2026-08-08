@@ -62,7 +62,6 @@ rd-weapons/
 ├── config.lua      # Main configuration file for script parameters
 ├── fxmanifest.lua  # FiveM resource manifest (defines script metadata and entry points)
 ├── rd_cl.lua       # Client-side Lua script containing the core logic for weapon modifications
-└── LICENSE         # Apache 2.0 License file
 ```
 
 ## CONTRIBUTING
